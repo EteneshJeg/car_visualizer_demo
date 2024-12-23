@@ -1,6 +1,6 @@
-# **Car Visualizer with GAN and Object Detection**
+# **Car Visualizer with GAN and Object Detection by YOLOv8**
 
-This project leverages advanced AI techniques, including Generative Adversarial Networks (GANs) and object detection, to create a robust system for generating and visualizing cars. It combines cutting-edge technology to provide a powerful tool for automotive visualization.
+This project leverages advanced AI techniques, including Generative Adversarial Networks (GANs) and object detection by YOLOv8, to create a robust system for generating and visualizing cars. It combines cutting-edge technology to provide a powerful tool for automotive visualization.
 
 ---
 
